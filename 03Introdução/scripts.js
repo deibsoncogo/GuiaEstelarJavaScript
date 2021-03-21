@@ -18,3 +18,6 @@ console.log(1 == 1);
 
 console.log(false);
 console.log(1 > 4);
+
+// undefined vs null
+console.log(undefined === null); // não são iguais

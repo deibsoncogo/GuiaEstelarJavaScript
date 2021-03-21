@@ -81,3 +81,7 @@ Infinity // serve para verifica se o número é infinito
 O **boolean** possui somente dois tipos de valores como verdadeiro ou falso
 
 Parece ser simples mais é muito util no desenvolvimento dos projetos, é muito utilizado para comparação de dados e análisar uma situação
+
+## Aula 11 - Undefined vs null
+`Undefined` é um dado indefinido, algo que foi criado sem especificações
+`Null` é um dado nullo, um objeto sem qualquer valor salvo
