@@ -45,3 +45,12 @@ Para criar a estrutura inicial do HTML podemos usar o comando abaixo onde o Emme
 ````
 !
 ````
+
+## Aula 06 - Comentários
+Para criar um comentários devemos usar duas barras
+Eles servem para criar anotações ou ignorar comandos
+````
+// console.log("Bem vindos ao Starter!!");
+````
+
+Existe três modelos de comentário, ai usamos o que mais se adegar ao momento
