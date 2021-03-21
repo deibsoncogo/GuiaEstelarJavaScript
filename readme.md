@@ -54,3 +54,8 @@ Eles servem para criar anotações ou ignorar comandos
 ````
 
 Existe três modelos de comentário, ai usamos o que mais se adegar ao momento
+
+# Modulo 03 - Introdução
+
+## Aula 07 - Introdução
+A primeira coisa que devemos aprender é os elementos da linguagem e suas combinações, assim aprendendo como escrever e oque significa
