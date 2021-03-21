@@ -37,3 +37,11 @@ O modo mais fácil de executar ele é pelo inspecionar do navegador de internet
 Temos também o [Codepen](http://www.codepen.io/pen) que é um site onde com ele conseguimos executar comandos HTML, CSS e JavaScript
 
 E por último e mais eficiente é a utilização de um IDE ou editor de código pois é com ele que criamos uma aplicação, o **Visual Studio Code** é o mais recomendado no momento
+
+## Aula 05 - Adicionando arquivos JS
+Os nomes dos arquivos não podem conter espaços os caracteres especiais
+
+Para criar a estrutura inicial do HTML podemos usar o comando abaixo onde o Emmet Abbreviation vai criar todos os comandos necessários
+````
+!
+````
