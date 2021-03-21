@@ -59,3 +59,11 @@ Existe três modelos de comentário, ai usamos o que mais se adegar ao momento
 
 ## Aula 07 - Introdução
 A primeira coisa que devemos aprender é os elementos da linguagem e suas combinações, assim aprendendo como escrever e oque significa
+
+## Aula 08 - String
+O tipo de dados **string** é uma cadeia de caracteres que permite a utilização de texto, temos três modo de criar uma string
+````
+'Aspas simples é um modo'
+"Aspas duplas seria outro"
+`Templete literals é um modo avançado`
+````
