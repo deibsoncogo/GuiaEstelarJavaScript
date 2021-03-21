@@ -19,3 +19,14 @@ A maioria dos sites utilizam está linguagem e ela é uma linguagem obrigatória
 durante o curso iremos ver sobre os tipos de dados, variáveis, funções, condicionais, estruturas de repetição e muitos mais
 
 A dinâmica do curso será baseada em primeiro aprender os conceitos e fundamentos, depois iremos realizar a pratica e por último a revisão de tudo
+
+# Modulo 02 - Primeiros passos
+
+## Aula 03 - Sintaxe
+Todas linguagens possui uma sintaxe onde ela a padronização de como os textos (Comandos) devem ser escrito para o computador conseguir entender, escrever os comandos errado é o principal erro no desenvolvimento das aplicações principalmente pelos iniciantes
+
+No exemplo abaixo a posição do ponto muda por completo comando
+````
+console.log("Bem vindo as Starter"); // este é o comando correto
+consolelog("Bem vindo as Starter"); // aqui vai gerar um erro
+````
