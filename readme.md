@@ -93,3 +93,26 @@ Propriedade pode ser chamada também de atributos e funcionalidade de método, p
 
 ## Aula 13 - Array
 O `array` ou também chamado de `vetor` é um tipo de dados estruturado que permite agrupar dados e gerar listas com extrema facilidade
+
+## Aula 14 - Conclusão
+Conforme o `ECMAScript standard` temos 9 tipos de dados que são definidos em 3 grupos
+
+**Primitive**
+  * String
+  * Number
+  * Boolean
+  * Undefined
+  * Symbol
+  * BigInt
+
+**Structural**
+  * Object
+    * Array
+    * Map
+    * Set
+    * Date
+    * E outros
+  * Function
+
+**Structural primitive**
+  * Null
