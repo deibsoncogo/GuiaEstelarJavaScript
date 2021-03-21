@@ -30,3 +30,10 @@ No exemplo abaixo a posição do ponto muda por completo comando
 console.log("Bem vindo as Starter"); // este é o comando correto
 consolelog("Bem vindo as Starter"); // aqui vai gerar um erro
 ````
+
+## Aula 04 - Maneiras de executar o JavaScript
+O modo mais fácil de executar ele é pelo inspecionar do navegador de internet
+
+Temos também o [Codepen](http://www.codepen.io/pen) que é um site onde com ele conseguimos executar comandos HTML, CSS e JavaScript
+
+E por último e mais eficiente é a utilização de um IDE ou editor de código pois é com ele que criamos uma aplicação, o **Visual Studio Code** é o mais recomendado no momento
