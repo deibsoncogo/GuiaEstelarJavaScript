@@ -126,3 +126,13 @@ Para criar uma devemos usar um destes comandos:
   * **var:** Funciona globalmente e seu valor pode ser alterado
   * **let:** Funciona localmente e seu valor pode sofre alteração
   * **const:** O valor atribuído não pode mudar
+
+## Aula 16 - Tipos dinâmicos
+As variáveis do JavaScript são fracamente tipada e dinâmica, isso quer dizer que a propriá linguagem vai definir o tipo da variável a partir do valor salvo
+
+Podemos usar o comando `typeof` para verificar qual tipagem a variável está recebendo
+
+Podemos transforma uma variável em estática e fortemente tipada com este método
+````
+let clima:String = "Frio"
+````

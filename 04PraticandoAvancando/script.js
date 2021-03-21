@@ -9,3 +9,15 @@ if(graus <= 30) {
 }
 
 console.log(clima, graus);
+
+// Aula 16 - Tipos dinâmicos
+let valor
+
+valor = 39
+console.log(valor, typeof valor);
+
+valor = true // boolean
+console.log(valor, typeof valor);
+
+valor = "Salame" // string
+console.log(valor, typeof valor);
