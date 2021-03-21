@@ -116,3 +116,13 @@ Conforme o `ECMAScript standard` temos 9 tipos de dados que são definidos em 3 
 
 **Structural primitive**
   * Null
+
+# Modulo 04 - Praticando e avançando
+
+## Aula 15 - Conhecendo as variáveis
+Uma variável recebe um nome simbólico para poder guardar algum valor
+
+Para criar uma devemos usar um destes comandos:
+  * **var:** Funciona globalmente e seu valor pode ser alterado
+  * **let:** Funciona localmente e seu valor pode sofre alteração
+  * **const:** O valor atribuído não pode mudar
