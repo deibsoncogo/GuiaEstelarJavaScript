@@ -76,3 +76,8 @@ O tipo de dados **number** são os números onde pode ser desde inteiros como re
 NaN // representa um erro
 Infinity // serve para verifica se o número é infinito
 ````
+
+## Aula 10 - Boolean
+O **boolean** possui somente dois tipos de valores como verdadeiro ou falso
+
+Parece ser simples mais é muito util no desenvolvimento dos projetos, é muito utilizado para comparação de dados e análisar uma situação

@@ -11,3 +11,10 @@ console.log(-82);
 console.log(7.913); // devemos usar ponto para números quebrados
 console.log(16 / "Criando um erro"); // teremos um NaN quando um erro acontecer
 console.log(98.555555 === Infinity); // verifica se o número é infinito
+
+// boolean
+console.log(true);
+console.log(1 == 1);
+
+console.log(false);
+console.log(1 > 4);
