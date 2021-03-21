@@ -30,3 +30,9 @@ console.log({
     console.log("Rua México 96");
   }
 });
+
+// array
+console.log([
+  ["Deibson", "Henrique", "Cogo"],
+  [40812356790, 495438761],
+]);
