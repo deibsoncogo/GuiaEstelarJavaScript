@@ -136,3 +136,8 @@ Podemos transforma uma variável em estática e fortemente tipada com este méto
 ````
 let clima:String = "Frio"
 ````
+
+## Aula 17 - Scope e var
+`Scope` é oque define a visibilidade das variáveis do JavaScript, ele é uma limitação que mostra até onde uma variável local deve existir
+
+O JavaScript sempre vai realizar a criação das variáveis globais por primeiro, isso é chamado de `hoisting`, ele vai somente criar não vai definir os valores que elas devem contem

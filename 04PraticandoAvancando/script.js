@@ -21,3 +21,12 @@ console.log(valor, typeof valor);
 
 valor = "Salame" // string
 console.log(valor, typeof valor);
+
+// Aula 17 - Scope e var
+console.log("> O x existe aqui?", x);
+
+{
+  var x = true;
+}
+
+console.log("> O x existe aqui?", x);
