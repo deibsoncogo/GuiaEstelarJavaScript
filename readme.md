@@ -67,3 +67,12 @@ O tipo de dados **string** é uma cadeia de caracteres que permite a utilizaçã
 "Aspas duplas seria outro"
 `Templete literals é um modo avançado`
 ````
+
+## Aula 09 - Number
+O tipo de dados **number** são os números onde pode ser desde inteiros como reais (Quebrado), para utilizar ele basta digitar o número
+````
+45 // número inteiro
+7.913 // número real
+NaN // representa um erro
+Infinity // serve para verifica se o número é infinito
+````
