@@ -21,3 +21,12 @@ console.log(1 > 4);
 
 // undefined vs null
 console.log(undefined === null); // não são iguais
+
+// object
+console.log({
+  nome: "Deibson Cogo",
+  idade: 28,
+  moradia: function() {
+    console.log("Rua México 96");
+  }
+});

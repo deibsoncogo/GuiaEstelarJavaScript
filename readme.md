@@ -85,3 +85,8 @@ Parece ser simples mais é muito util no desenvolvimento dos projetos, é muito 
 ## Aula 11 - Undefined vs null
 `Undefined` é um dado indefinido, algo que foi criado sem especificações
 `Null` é um dado nullo, um objeto sem qualquer valor salvo
+
+## Aula 12 - Object
+O `object` é um tipo de dado estrutural contendo dentro dele diversas propriedades e funcionalidades, um exemplo seria um celular onde suas propriedades (Altura, peso, cor e outros) e funcionalidades (Realizar ligações e outros)
+
+Propriedade pode ser chamada também de atributos e funcionalidade de método, para criar ele precisamos utilizar o `{}`
