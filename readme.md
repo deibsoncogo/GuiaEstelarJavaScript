@@ -55,7 +55,7 @@ Eles servem para criar anotações ou ignorar comandos
 
 Existe três modelos de comentário, ai usamos o que mais se adegar ao momento
 
-# Modulo 03 - Introdução
+# Modulo 03 - Tipos de dados
 
 ## Aula 07 - Introdução
 A primeira coisa que devemos aprender é os elementos da linguagem e suas combinações, assim aprendendo como escrever e oque significa
@@ -117,7 +117,7 @@ Conforme o `ECMAScript standard` temos 9 tipos de dados que são definidos em 3 
 **Structural primitive**
   * Null
 
-# Modulo 04 - Praticando e avançando
+# Modulo 04 - Variáveis
 
 ## Aula 15 - Conhecendo as variáveis
 Uma variável recebe um nome simbólico para poder guardar algum valor
