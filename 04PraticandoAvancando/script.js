@@ -30,3 +30,16 @@ console.log("> O x existe aqui?", x);
 }
 
 console.log("> O x existe aqui?", x);
+
+// Aula 18 - Scope let e const
+let z = "z";
+const y = "y";
+
+console.log("> Quais variáveis existe aqui?", y, z);
+
+{
+  const y = "yL";
+  console.log("> Quais variáveis existe aqui?", y, z);
+}
+
+console.log("> Quais variáveis existe aqui?", y, z);

@@ -141,3 +141,8 @@ let clima:String = "Frio"
 `Scope` é oque define a visibilidade das variáveis do JavaScript, ele é uma limitação que mostra até onde uma variável local deve existir
 
 O JavaScript sempre vai realizar a criação das variáveis globais por primeiro, isso é chamado de `hoisting`, ele vai somente criar não vai definir os valores que elas devem contem
+
+## Aula 18 - Scope let e const
+Nesta aula usamos variáveis locais para mostrar detalhadamente como funciona a visibilidade
+
+Quando uma variável é chamada e não é encontrada dentro daquele scope o JavaScript vai buscar a criação dela em scopes anteriores
