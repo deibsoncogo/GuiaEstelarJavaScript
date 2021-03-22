@@ -146,3 +146,15 @@ O JavaScript sempre vai realizar a criação das variáveis globais por primeiro
 Nesta aula usamos variáveis locais para mostrar detalhadamente como funciona a visibilidade
 
 Quando uma variável é chamada e não é encontrada dentro daquele scope o JavaScript vai buscar a criação dela em scopes anteriores
+
+## Aula 19 - Nomeando variáveis
+Esta linguagem é `case-sensitive`, isso quer dizer que letras minusculas e maiúsculas são totalmente diferentes
+
+Não podemos iniciar nomes com números, espaços, caracteres especiais ou espaços
+
+A metodologia de `camelCase` é muito úti quando desejamos usar mais de uma palavra
+````
+const numeroCasa = 96;
+````
+
+E por último é muito importante usamos a lingua inglesa para desenvolver nossa aplicações pois tudo é em ingles, assim enquanto desenvolvemos aprendemos um pouco sobre ela

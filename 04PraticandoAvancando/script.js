@@ -43,3 +43,13 @@ console.log("> Quais variáveis existe aqui?", y, z);
 }
 
 console.log("> Quais variáveis existe aqui?", y, z);
+
+// Aula 19 - Nomeando variáveis
+let saoIguais = false;
+let M2 = "K", m2 = "k"
+
+if( M2 === m2 ) {
+  saoIguais = true;
+}
+
+console.log(`A variável M2 possui o valor ${M2} e a m2 ${m2}, ambos valores são ${saoIguais}`);
