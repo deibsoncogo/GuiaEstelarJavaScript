@@ -163,3 +163,6 @@ E por último é muito importante usamos a lingua inglesa para desenvolver nossa
 
 ## Aula 20 - Declaration assignment var
 Nesta aula revisamos como declaramos uma variável, como atribuir um valor para ela e como identificar o tipo que dados que está salvo na mesma
+
+## Aula 21 - Agrupando declarações
+Agora aprendemos como realizar a declaração, atribuição e exibição de várias variáveis
