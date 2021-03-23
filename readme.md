@@ -158,3 +158,8 @@ const numeroCasa = 96;
 ````
 
 E por último é muito importante usamos a lingua inglesa para desenvolver nossa aplicações pois tudo é em ingles, assim enquanto desenvolvemos aprendemos um pouco sobre ela
+
+# Modulo 05 - Praticando e avançando
+
+## Aula 20 - Declaration assignment var
+Nesta aula revisamos como declaramos uma variável, como atribuir um valor para ela e como identificar o tipo que dados que está salvo na mesma
