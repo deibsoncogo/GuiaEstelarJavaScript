@@ -166,3 +166,6 @@ Nesta aula revisamos como declaramos uma variável, como atribuir um valor para 
 
 ## Aula 21 - Agrupando declarações
 Agora aprendemos como realizar a declaração, atribuição e exibição de várias variáveis
+
+## Aula 22 - Concatenando e interpolando variáveis
+Revisamos como juntar um texto estático com os valores que uma variável possa ter
