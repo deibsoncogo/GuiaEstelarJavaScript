@@ -207,3 +207,8 @@ Uma função é um tipo de dado estrutural, com as funções conseguimos reutili
 Conseguimos também criar funções dentro de variáveis, assim a função se torna anonima
 Conseguimos também enviar informação (Argumentos) para as funções
 As informações precisa ser criada na função e depois que é recebida é chamada de parâmetro
+
+## Aula 28 - Retornando valores dentro da função
+Quando uma função não possui o comando `return` ela não vai exportar nada se tornando `undefined`
+
+Quando criamos uma variável sem informar seu tipo ela vai se tornar extremamente global, isso pode gerar um problema futuramente muito grande
