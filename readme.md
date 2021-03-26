@@ -178,3 +178,22 @@ Agora vimos como criar arrays, a diferença em objeto é que os campos não poss
 
 Tem como unificar arrays com objetos mais esta é uma pratica não recomendada
 Devemos usar somente um tipo ou ser usarmos mais de um devemos ter um padrão para evitar erros
+
+## Aula 25 - Exercícios
+Agora iremos resolver alguns execícios:
+  1. Declare uma variável de nome weight
+  2. Que tipo de dado é a variável acima
+  3. Declare uma variável e atribua valores para cada um dos dados
+    * name: String
+    * age: Number (Integer)
+    * stars: Number (Float)
+    * isSubscribed: Boolean
+  4. A variável student abaixo é de que tipo de dado
+    A. Atribua a ela as mesmas propriedades e valores do exercício 3
+    B. Mostre no console log a seguinte mensagem
+      * <name> de idade <age> pesa <weight> kg
+  5. Declare uma variável do tipo array vazia de nome students
+  6. Reatribua valor para a variável acima, colocando dentro dela o objeto student
+  7. Coloque no console o valor da posição zero do array
+  8. Crie um novo student e coloque na posição 1 do array students
+  9. Sem rodar o código responda qual é a resposta do código abaixo e por que

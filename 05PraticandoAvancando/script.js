@@ -46,3 +46,44 @@ const animals = [
 console.log(`Este animal de chama ${animals[0]}`); // mostra o primeiro valor salvo
 console.log(`Existe ${animals.length} nomes de animais salvo`); // mostra quando valores existe
 console.log(animals[2].name); // mostra o terceiro valor e seu objeto salvo
+
+// Aula 25 - Exercícios
+{
+  let weight;
+
+  console.log(typeof weight);
+
+  let name, age, isSubscribed;
+  name = "Deibson Cogo", age = 28, weight = 110.6, isSubscribed = true;
+
+  let student = {
+    name: "Deibson Cogo",
+    age: 28,
+    weight: 110.6,
+    isSubscribed: true,
+  };
+
+  console.log(typeof student);
+
+  console.log(`${student.name} de idade ${student.age} pesa ${student.weight} kg`);
+
+  let students = [];
+
+  students = [student];
+  
+  console.log(students[0]);
+  
+  const john = {
+    name: "John",
+    age: 23,
+    weight: 74.8,
+    isSubscribed: true,
+  }
+  
+  students[1] = john;
+
+  console.log(students);
+
+  console.log(a);
+  var a = 1;
+}
