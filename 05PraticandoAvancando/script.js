@@ -32,3 +32,17 @@ const person = {
 }
 
 console.log(`${person.name} tem ${person.age} ${age > 1 ? "anos" : "ano"}`);
+
+// Aula 24 - Arrays
+const animals = [
+  "Lion",
+  "Monkey",
+  {
+    name: "Cat",
+    age: 3,
+  },
+]
+
+console.log(`Este animal de chama ${animals[0]}`); // mostra o primeiro valor salvo
+console.log(`Existe ${animals.length} nomes de animais salvo`); // mostra quando valores existe
+console.log(animals[2].name); // mostra o terceiro valor e seu objeto salvo

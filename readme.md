@@ -172,3 +172,9 @@ Revisamos como juntar um texto estático com os valores que uma variável possa 
 
 ## Aula 23 - Objects
 Nesta trabalhamos com um objeto desde sua criação a chamada
+
+## Aula 24 - Arrays
+Agora vimos como criar arrays, a diferença em objeto é que os campos não possui nome e para chamar ele devemos usar números onde o primeiro começa por zero
+
+Tem como unificar arrays com objetos mais esta é uma pratica não recomendada
+Devemos usar somente um tipo ou ser usarmos mais de um devemos ter um padrão para evitar erros
