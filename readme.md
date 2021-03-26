@@ -197,3 +197,8 @@ Agora iremos resolver alguns execícios:
   7. Coloque no console o valor da posição zero do array
   8. Crie um novo student e coloque na posição 1 do array students
   9. Sem rodar o código responda qual é a resposta do código abaixo e por que
+
+# Modulo 06 - Funções
+
+## Aula 26 - Functions
+Uma função é um tipo de dado estrutural, com as funções conseguimos reutilizar códigos e com a nomeação delas conseguimos deixar mais fácil oque acontece na nossa aplicação
