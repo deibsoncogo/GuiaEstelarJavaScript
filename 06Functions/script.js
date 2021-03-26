@@ -6,3 +6,10 @@ function createPhrases() { // declara uma função
 }
 
 createPhrases(); // chamando a função acima
+
+// Aula 27 - Argumentos e parâmetros
+const sum = function(item1, item2) {
+  console.log(item1 + item2); // estes itens são parâmetros
+}
+
+sum(2, 3); // enviando argumentos para a função

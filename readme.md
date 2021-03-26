@@ -202,3 +202,8 @@ Agora iremos resolver alguns execícios:
 
 ## Aula 26 - Functions
 Uma função é um tipo de dado estrutural, com as funções conseguimos reutilizar códigos e com a nomeação delas conseguimos deixar mais fácil oque acontece na nossa aplicação
+
+## Aula 27 - Argumentos e parâmetros
+Conseguimos também criar funções dentro de variáveis, assim a função se torna anonima
+Conseguimos também enviar informação (Argumentos) para as funções
+As informações precisa ser criada na função e depois que é recebida é chamada de parâmetro
