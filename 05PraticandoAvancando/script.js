@@ -22,3 +22,13 @@ console.log(`O ${name} tem ${age} anos`);
 
 // usando variáveis com texto estático numa forma obsoleta
 console.log("Ele mora em " + cidade + " - " + estado + " - " + pais);
+
+// Aula 23 - Objects
+const person = {
+  name: "Leonardo",
+  age: 27,
+  weight: 95.6,
+  isAdmin: true,
+}
+
+console.log(`${person.name} tem ${person.age} ${age > 1 ? "anos" : "ano"}`);

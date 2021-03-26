@@ -169,3 +169,6 @@ Agora aprendemos como realizar a declaração, atribuição e exibição de vár
 
 ## Aula 22 - Concatenando e interpolando variáveis
 Revisamos como juntar um texto estático com os valores que uma variável possa ter
+
+## Aula 23 - Objects
+Nesta trabalhamos com um objeto desde sua criação a chamada
