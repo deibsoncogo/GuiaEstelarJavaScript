@@ -212,3 +212,6 @@ As informações precisa ser criada na função e depois que é recebida é cham
 Quando uma função não possui o comando `return` ela não vai exportar nada se tornando `undefined`
 
 Quando criamos uma variável sem informar seu tipo ela vai se tornar extremamente global, isso pode gerar um problema futuramente muito grande
+
+## Aula 29 - Outra maneira de entender funções
+Nesta aula revisamos oque vimos anteriormente com um outro exemplo

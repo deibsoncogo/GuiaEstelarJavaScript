@@ -25,3 +25,12 @@ let argument2 = 25;
 
 console.log(`O número 1 é ${argument1} e o número 2 é ${argument2}`);
 console.log(`A soma dos dois números é ${sumTwo(argument1, argument2)}`);
+
+// Aula 29 - Outra maneira de entender funções
+function fazerSuco(fruta1, fruta2) {
+  return "Suco de " + fruta1 + fruta2;
+}
+
+const copo = fazerSuco("banana", "maça");
+
+console.log(copo);
