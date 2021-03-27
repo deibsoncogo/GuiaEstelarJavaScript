@@ -284,3 +284,9 @@ E para deixar somente a primeira letra em maiúscula usamos esta técnica
 let word = "ProGramAr é muITO BAcaNA!";
 word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
 ```
+
+## Aula 41 - Encontrando palavras em frases
+Temos este comando para verificar se uma palavra existe mais ele é case-sensitive
+```
+includes();
+```

@@ -45,3 +45,7 @@ console.log(word.toUpperCase()); // deixa tudo maiúsculo
 console.log(
   word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(),
 ); // deixa somente a primeira letra em maiúsculo
+
+// Aula 41 - Encontrando palavras em frases
+let phrase = "Eu quero viver o amor!";
+console.log(phrase.includes("amor")); // ele é case-sensitive
