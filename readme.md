@@ -315,3 +315,21 @@ Para criar um array onde cada letra de uma string ocupe um elemento podemos usar
 let aula45 = "manipulação";
 Array.from(aula45);
 ```
+
+## Aula 46 - Manipulando arrays
+Aprendemos algumas formas de como adicionar ou remover um elemento
+```
+let techs = ["html", "css", "js"]; // cria o array
+
+techs.push("nodejs"); // adiciona no final
+techs.unshift("sql"); // adiciona no começo
+
+let index = techs.indexOf("js"); // busca em qual elemento este dado está salvo
+techs.splice(index, 1); // remove o elemento
+
+techs.pop(); // remove no final
+techs.shift(); // remove no começo
+
+techs.slice(1, 3); // estrai uma sequencia de dados sem salvar
+techs.splice(1, 1); // remove uma sequencia de dados
+```

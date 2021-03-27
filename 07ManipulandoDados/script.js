@@ -88,3 +88,28 @@ console.log(eleArray[2]()); // executa a função
 let aula45 = "manipulação";
 
 console.log(Array.from(aula45)); // cria um elemento para cada letra no array
+
+// Aula 46 - Manipulando arrays
+let techs = ["html", "css", "js"]; // cria o array
+console.log(techs);
+
+techs.push("nodejs"); // adiciona no final
+console.log(techs);
+
+techs.unshift("sql"); // adiciona no começo
+console.log(techs);
+
+let index = techs.indexOf("js"); // busca em qual elemento este dado está salvo
+techs.splice(index, 1); // remove o elemento
+console.log(techs);
+
+techs.pop(); // remove no final
+console.log(techs);
+
+techs.shift(); // remove no começo
+console.log(techs);
+
+console.log(techs.slice(1, 3)); // estrai uma sequencia de dados
+
+techs.splice(1, 1); // remove uma sequencia de dados
+console.log(techs);
