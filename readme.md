@@ -218,3 +218,6 @@ Nesta aula revisamos oque vimos anteriormente com um outro exemplo
 
 ## Aula 30 - Function scope
 Quando não informamos um parâmetro na função as variáveis que existe dentro dela vai se juntar com outra fora do scope de mesmo nome
+
+## Aula 31 - Function hoisting
+Uma função com seu nome sofre um hoisting assim sendo criado primeiro no arquivo de comandos

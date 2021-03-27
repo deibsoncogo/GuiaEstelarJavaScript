@@ -46,3 +46,10 @@ function createThink(subject) {
 
 console.log(createThink(subject));
 console.log(subject);
+
+/** Aula 31 - Function hoisting */
+sayMyName();
+
+function sayMyName() {
+  console.log("Mayk");
+}
