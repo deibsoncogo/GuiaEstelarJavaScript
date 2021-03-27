@@ -234,3 +234,16 @@ Também podemos chamar uma função a partir de um comando dentro de outro funç
 
 ## Aula 34 - Funções construtoras
 Serve para criar objetos nomeado e baseado em um modelo
+
+# Modulo 07 - Manipulando dados
+
+## Aula 35 - Prototype
+O prototype é uma das coisas mais incrível do JavaScript
+Ele vem da ideia de criação ou utilização de um protótipo
+
+Todo objeto possui diversas funcionalidade que são criadas automaticamente
+
+Para saber quais funções um item possui devemos adicionar `__proto__` no final
+```
+"Deibson Cogo".__proto__
+```
