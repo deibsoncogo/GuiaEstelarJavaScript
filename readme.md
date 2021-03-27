@@ -247,3 +247,8 @@ Para saber quais funções um item possui devemos adicionar `__proto__` no final
 ```
 "Deibson Cogo".__proto__
 ```
+
+## Aula 36 - Type conversion ou coersion
+Eles servem para pegar um dados e transformar ele em outro tipo de dado
+
+A `coersion` é utilizada comente pelo sistema transformando um dado em outro com o intuito de evitar o acontecimento de erros, já o `conversion` é mais utilizada pelo usuário (Manual) mais o sistema as vezes também vai utilizar
