@@ -290,3 +290,10 @@ Temos este comando para verificar se uma palavra existe mais ele é case-sensiti
 ```
 includes();
 ```
+
+## Aula 42 - Separando strings
+Para remover espaços em branco de uma frase usamos a combinação de um comando que transformar um string em array a partir de um item e depois outro que junta um array adicionando algum carácter entre os campos
+```
+split(" "); // cria um array sem espaço
+join("_"); // junta os itens de um array
+```

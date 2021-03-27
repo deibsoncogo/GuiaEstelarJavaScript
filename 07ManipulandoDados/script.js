@@ -49,3 +49,11 @@ console.log(
 // Aula 41 - Encontrando palavras em frases
 let phrase = "Eu quero viver o amor!";
 console.log(phrase.includes("amor")); // ele é case-sensitive
+
+// Aula 42 - Separando strings
+let onePhrase = "Eu quero viver o Amor!";
+
+let removeSpace = onePhrase.split(" "); // cria um array sem espaço
+let endPhrase = removeSpace.join("_"); // junta os itens de um array
+
+console.log(endPhrase.toLowerCase());
