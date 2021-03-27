@@ -221,3 +221,9 @@ Quando não informamos um parâmetro na função as variáveis que existe dentro
 
 ## Aula 31 - Function hoisting
 Uma função com seu nome sofre um hoisting assim sendo criado primeiro no arquivo de comandos
+
+## Aula 32 - Arrow function
+A arrow function é um método fácil de criar uma função ela possui as mesmas propriedade de um função tradicional
+```
+() => {}
+```

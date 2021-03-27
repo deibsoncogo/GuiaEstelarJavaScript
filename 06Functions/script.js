@@ -53,3 +53,10 @@ sayMyName();
 function sayMyName() {
   console.log("Mayk");
 }
+
+/** Aula 32 - Arrow function */
+const sayMyNameTwo = (name) => {
+  console.log(name);
+}
+
+sayMyNameTwo("Teixeira");
