@@ -57,3 +57,10 @@ let removeSpace = onePhrase.split(" "); // cria um array sem espaço
 let endPhrase = removeSpace.join("_"); // junta os itens de um array
 
 console.log(endPhrase.toLowerCase());
+
+// Aula 43 - Criando array com construtor
+let arrayConstructor = new Array("a", "b", "c");
+console.log(arrayConstructor); // este array foi criado com o construtor
+
+let arrayDeclaration = ["a", "b", "c"];
+console.log(arrayDeclaration); // este array foi criado com uma declaração

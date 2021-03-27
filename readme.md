@@ -297,3 +297,10 @@ Para remover espaços em branco de uma frase usamos a combinação de um comando
 split(" "); // cria um array sem espaço
 join("_"); // junta os itens de um array
 ```
+
+## Aula 43 - Criando array com construtor
+Na aula vimos como criar um array com o método de constructor e no modo de declaração
+```
+let arrayConstructor = new Array("a", "b", "c");
+let arrayDeclaration = ["a", "b", "c"];
+```
