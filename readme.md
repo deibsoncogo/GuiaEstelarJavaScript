@@ -231,3 +231,6 @@ A arrow function é um método fácil de criar uma função ela possui as mesmas
 ## Aula 33 - Callback function
 Este tipo de função é criado e salvo na nossa memória somente uma vez
 Também podemos chamar uma função a partir de um comando dentro de outro função
+
+## Aula 34 - Funções construtoras
+Serve para criar objetos nomeado e baseado em um modelo

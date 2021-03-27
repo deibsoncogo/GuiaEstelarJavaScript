@@ -75,3 +75,14 @@ runCallback(
     console.log("Dentro do item chamador");
   }
 );
+
+/** Aula 34 - Funções construtoras */
+function Person(name) {
+  this.name = name;
+}
+
+const user1 = new Person("Deibson Cogo");
+const user2 = new Person("Clovis Lucateli");
+
+console.log(user1);
+console.log(user2);
