@@ -261,3 +261,6 @@ let isString = "123", isNumber = 321;
 Number(isString); // transforma a string em número
 String(isNumber); // transforma o número em string
 ```
+
+## Aula 38 - Contando caracteres e dígitos
+Nesta aula vimos o comando `length` não funciona com números, com isso devemos transformar ele em uma string para a contagem dar certo, também apliquei o método de `forof`
