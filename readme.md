@@ -227,3 +227,7 @@ A arrow function é um método fácil de criar uma função ela possui as mesmas
 ```
 () => {}
 ```
+
+## Aula 33 - Callback function
+Este tipo de função é criado e salvo na nossa memória somente uma vez
+Também podemos chamar uma função a partir de um comando dentro de outro função

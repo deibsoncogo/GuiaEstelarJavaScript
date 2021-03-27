@@ -60,3 +60,18 @@ const sayMyNameTwo = (name) => {
 }
 
 sayMyNameTwo("Teixeira");
+
+/** Aula 33 - Callback function */
+function runCallback(valor) {
+  console.log("Antes do callback");
+  
+  valor(); // chamando uma função dentro de outra função
+  
+  console.log("Depois do callback");
+}
+
+runCallback(
+  () => {
+    console.log("Dentro do item chamador");
+  }
+);
