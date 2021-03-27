@@ -64,3 +64,22 @@ console.log(arrayConstructor); // este array foi criado com o construtor
 
 let arrayDeclaration = ["a", "b", "c"];
 console.log(arrayDeclaration); // este array foi criado com uma declaração
+
+// Aula 44 - Elementos do Array
+eleArray = [
+  "Primero é o elemento zero no tipo string",
+  {
+    type: "Segundo é um objeto dentro do array",
+  },
+  function tudoDentro() {
+    return "Terceiro é uma função dentro de um array"
+  },
+];
+
+console.log(eleArray.length); // mostra quando elementos existe
+
+console.log(eleArray[0]); // exibe oque tem salvo
+console.log(eleArray[1]); // exibe oque tem salvo
+console.log(eleArray[2]); // exibe oque tem salvo
+
+console.log(eleArray[2]()); // executa a função

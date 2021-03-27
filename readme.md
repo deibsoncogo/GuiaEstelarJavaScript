@@ -304,3 +304,7 @@ Na aula vimos como criar um array com o método de constructor e no modo de decl
 let arrayConstructor = new Array("a", "b", "c");
 let arrayDeclaration = ["a", "b", "c"];
 ```
+
+## Aula 44 - Elementos do Array
+Um array pode conter qualquer tipo de dado como uma função
+E para saber quantos elementos existe basta usar o `length`
