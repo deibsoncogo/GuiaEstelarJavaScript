@@ -308,3 +308,10 @@ let arrayDeclaration = ["a", "b", "c"];
 ## Aula 44 - Elementos do Array
 Um array pode conter qualquer tipo de dado como uma função
 E para saber quantos elementos existe basta usar o `length`
+
+## Aula 45 - Strings para arrays
+Para criar um array onde cada letra de uma string ocupe um elemento podemos usar o `from`
+```
+let aula45 = "manipulação";
+Array.from(aula45);
+```

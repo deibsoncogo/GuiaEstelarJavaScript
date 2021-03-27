@@ -83,3 +83,8 @@ console.log(eleArray[1]); // exibe oque tem salvo
 console.log(eleArray[2]); // exibe oque tem salvo
 
 console.log(eleArray[2]()); // executa a função
+
+// Aula 45 - Strings para arrays
+let aula45 = "manipulação";
+
+console.log(Array.from(aula45)); // cria um elemento para cada letra no array
