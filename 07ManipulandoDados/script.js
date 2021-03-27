@@ -35,3 +35,13 @@ console.log(numberBroken
   .toFixed(2) // arredonda para duas casas decimais
   .replace(".", ",") // troca um item por outro
 );
+
+// Aula 40 - Maiúsculas e minúsculas
+let word = "ProGramAr é muITO BAcaNA!";
+
+console.log(word.toLowerCase()); // deixa tudo minusculo
+console.log(word.toUpperCase()); // deixa tudo maiúsculo
+
+console.log(
+  word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(),
+); // deixa somente a primeira letra em maiúsculo

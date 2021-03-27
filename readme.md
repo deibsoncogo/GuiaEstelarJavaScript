@@ -271,3 +271,16 @@ Aprendemos a utilizar dois comandos como podemos ver abaixo
 toFixed(2) // arredonda para duas casas decimais
 replace(".", ",") // troca um item por outro
 ```
+
+## Aula 40 - Maiúsculas e minúsculas
+Temos este dois comando que deixa tudo em maiúscula ou minuscula o string
+```
+toLowerCase() // deixa tudo minusculo
+toUpperCase() // deixa tudo maiúsculo
+```
+
+E para deixar somente a primeira letra em maiúscula usamos esta técnica
+```
+let word = "ProGramAr é muITO BAcaNA!";
+word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+```
