@@ -34,3 +34,15 @@ function fazerSuco(fruta1, fruta2) {
 const copo = fazerSuco("banana", "maça");
 
 console.log(copo);
+
+// Aula 30 - Function scope
+let subject = "create video";
+
+// se não informamos o parâmetro, o subject se torna uma variável só
+function createThink(subject) {
+  subject = "study"
+  return subject;
+}
+
+console.log(createThink(subject));
+console.log(subject);
