@@ -26,10 +26,10 @@ A dinâmica do curso será baseada em primeiro aprender os conceitos e fundament
 Todas linguagens possui uma sintaxe onde ela a padronização de como os textos (Comandos) devem ser escrito para o computador conseguir entender, escrever os comandos errado é o principal erro no desenvolvimento das aplicações principalmente pelos iniciantes
 
 No exemplo abaixo a posição do ponto muda por completo comando
-````
+```
 console.log("Bem vindo as Starter"); // este é o comando correto
 consolelog("Bem vindo as Starter"); // aqui vai gerar um erro
-````
+```
 
 ## Aula 04 - Maneiras de executar o JavaScript
 O modo mais fácil de executar ele é pelo inspecionar do navegador de internet
@@ -42,16 +42,16 @@ E por último e mais eficiente é a utilização de um IDE ou editor de código 
 Os nomes dos arquivos não podem conter espaços os caracteres especiais
 
 Para criar a estrutura inicial do HTML podemos usar o comando abaixo onde o Emmet Abbreviation vai criar todos os comandos necessários
-````
+```
 !
-````
+```
 
 ## Aula 06 - Comentários
 Para criar um comentários devemos usar duas barras
 Eles servem para criar anotações ou ignorar comandos
-````
+```
 // console.log("Bem vindos ao Starter!!");
-````
+```
 
 Existe três modelos de comentário, ai usamos o que mais se adegar ao momento
 
@@ -62,20 +62,20 @@ A primeira coisa que devemos aprender é os elementos da linguagem e suas combin
 
 ## Aula 08 - String
 O tipo de dados **string** é uma cadeia de caracteres que permite a utilização de texto, temos três modo de criar uma string
-````
+```
 'Aspas simples é um modo'
 "Aspas duplas seria outro"
 `Templete literals é um modo avançado`
-````
+```
 
 ## Aula 09 - Number
 O tipo de dados **number** são os números onde pode ser desde inteiros como reais (Quebrado), para utilizar ele basta digitar o número
-````
+```
 45 // número inteiro
 7.913 // número real
 NaN // representa um erro
 Infinity // serve para verifica se o número é infinito
-````
+```
 
 ## Aula 10 - Boolean
 O **boolean** possui somente dois tipos de valores como verdadeiro ou falso
@@ -133,9 +133,9 @@ As variáveis do JavaScript são fracamente tipada e dinâmica, isso quer dizer 
 Podemos usar o comando `typeof` para verificar qual tipagem a variável está recebendo
 
 Podemos transforma uma variável em estática e fortemente tipada com este método
-````
-let clima:String = "Frio"
-````
+```
+let clima:String = "Frio";
+```
 
 ## Aula 17 - Scope e var
 `Scope` é oque define a visibilidade das variáveis do JavaScript, ele é uma limitação que mostra até onde uma variável local deve existir
@@ -153,9 +153,9 @@ Esta linguagem é `case-sensitive`, isso quer dizer que letras minusculas e mai�
 Não podemos iniciar nomes com números, espaços, caracteres especiais ou espaços
 
 A metodologia de `camelCase` é muito úti quando desejamos usar mais de uma palavra
-````
+```
 const numeroCasa = 96;
-````
+```
 
 E por último é muito importante usamos a lingua inglesa para desenvolver nossa aplicações pois tudo é em ingles, assim enquanto desenvolvemos aprendemos um pouco sobre ela
 
@@ -225,7 +225,7 @@ Uma função com seu nome sofre um hoisting assim sendo criado primeiro no arqui
 ## Aula 32 - Arrow function
 A arrow function é um método fácil de criar uma função ela possui as mesmas propriedade de um função tradicional
 ```
-() => {}
+() => {};
 ```
 
 ## Aula 33 - Callback function
@@ -245,7 +245,7 @@ Todo objeto possui diversas funcionalidade que são criadas automaticamente
 
 Para saber quais funções um item possui devemos adicionar `__proto__` no final
 ```
-"Deibson Cogo".__proto__
+"Deibson Cogo".__proto__;
 ```
 
 ## Aula 36 - Type conversion ou coersion
@@ -268,15 +268,15 @@ Nesta aula vimos o comando `length` não funciona com números, com isso devemos
 ## Aula 39 - Casas decimais
 Aprendemos a utilizar dois comandos como podemos ver abaixo
 ```
-toFixed(2) // arredonda para duas casas decimais
-replace(".", ",") // troca um item por outro
+toFixed(2); // arredonda para duas casas decimais
+replace(".", ","); // troca um item por outro
 ```
 
 ## Aula 40 - Maiúsculas e minúsculas
 Temos este dois comando que deixa tudo em maiúscula ou minuscula o string
 ```
-toLowerCase() // deixa tudo minusculo
-toUpperCase() // deixa tudo maiúsculo
+toLowerCase(); // deixa tudo minusculo
+toUpperCase(); // deixa tudo maiúsculo
 ```
 
 E para deixar somente a primeira letra em maiúscula usamos esta técnica
