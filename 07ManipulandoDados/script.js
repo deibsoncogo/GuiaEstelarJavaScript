@@ -26,3 +26,12 @@ for (let f of tell) {
   let a = String(f).length;
   console.log(` * ${f} contem ${a} carácter${a > 1 ? `es` : ``}`);
 }
+
+// Aula 39 - Casas decimais
+let numberBroken = 534.786290;
+
+// a utilização de virgula transforma o número em string
+console.log(numberBroken
+  .toFixed(2) // arredonda para duas casas decimais
+  .replace(".", ",") // troca um item por outro
+);

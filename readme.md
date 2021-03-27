@@ -264,3 +264,10 @@ String(isNumber); // transforma o número em string
 
 ## Aula 38 - Contando caracteres e dígitos
 Nesta aula vimos o comando `length` não funciona com números, com isso devemos transformar ele em uma string para a contagem dar certo, também apliquei o método de `forof`
+
+## Aula 39 - Casas decimais
+Aprendemos a utilizar dois comandos como podemos ver abaixo
+```
+toFixed(2) // arredonda para duas casas decimais
+replace(".", ",") // troca um item por outro
+```
