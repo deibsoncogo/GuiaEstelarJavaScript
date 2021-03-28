@@ -71,3 +71,16 @@ console.log(`Exponencial: ${ 3 ** 3}`);
 console.log(`\n-> Aula 51 - Grouping operator`);
 console.log((2 + 3) * 5); // mudando a sequencia do calculo
 console.log(2 + 3 * 5); // sem a mudando da sequencia do calculo
+
+// Aula 52 - Operadores de comparação
+console.log(`\n-> Aula 52 - Operadores de comparação`);
+let one = 1, two = 2;
+
+console.log(`${one} é igual a ${two}: ${one == two}`);
+console.log(`${one} é diferente a ${two}: ${one != two}`);
+console.log(`${one} é estritamente igual a ${two}: ${one === two}`);
+console.log(`${one} é estritamente diferente a ${two}: ${one !== two}`);
+console.log(`${one} é maior que ${two}: ${one > two}`);
+console.log(`${one} é maior ou igual que ${two}: ${one >= two}`);
+console.log(`${one} é menor que ${two}: ${one < two}`);
+console.log(`${one} é menor ou igual que ${two}: ${one <= two}`);

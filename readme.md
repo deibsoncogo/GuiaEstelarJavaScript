@@ -386,3 +386,18 @@ O incremento e decremento funcionam depois de ser executado, com isso se colocar
 Na programação também temos a regra de presidência onde a multiplicação é realizado primeiro em uma conta
 
 Para mudar isso podemos usar o parenteses assim oque estiver dentro será calculado primeiro
+
+## Aula 52 - Operadores de comparação
+O sinal de igual atribui um valor para algo
+
+Temos 8 operadores de comparação onde eles são
+  * `==` Igual
+  * `!=` Diferente
+  * `===` Estritamente igual
+  * `!==` Estritamente diferente
+  * `>` Maior que
+  * `>=` Maior ou igual que
+  * `<` Menor que
+  * `<=` Menor ou igual que
+
+O estritamente quer dizer que o tipo de dado deve ser igual ou diferente também
