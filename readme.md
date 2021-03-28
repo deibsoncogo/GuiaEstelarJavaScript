@@ -333,3 +333,32 @@ techs.shift(); // remove no começo
 techs.slice(1, 3); // estrai uma sequencia de dados sem salvar
 techs.splice(1, 1); // remove uma sequencia de dados
 ```
+
+# Modulo 08 - Expressões e operadores
+
+## Aula 47 - Expressões e operadores
+Uma expressão é qualquer linha de código que resolve algo
+Elas podem terminar com virgula, ponto e outros itens
+
+Temos três tipos de operadores como binário, unário e ternário
+O binário é quando existe a combinação de dois comandos como abaixo
+```
+aula47 + 1;
+```
+
+O unário é quando temos somente um elemento principal
+```
+++number;
+```
+
+E o ternário é quando termos alguma verificação como um `if`
+```
+aula47 >= 0 ? sinal = true : sinal = false;
+```
+
+A utilização de parenteses como baixo faz o comando ser executado de imediato
+```
+(function() {
+  console.log("Alo");
+}) ()
+```
