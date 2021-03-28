@@ -401,3 +401,18 @@ Temos 8 operadores de comparação onde eles são
   * `<=` Menor ou igual que
 
 O estritamente quer dizer que o tipo de dado deve ser igual ou diferente também
+
+## Aula 53 - Operadores de atribuição
+Ele também é conhecido por `assignment` onde é um método mais fácil de realizar contas, os operadores são os seguintes
+```
+let x = 1;
+
+x += 2; // vai somar x com 2
+x -= 1; // vai subtrair x por 1
+x *= 9; // vai multiplicar x por 9
+x /= 3; // vai dividir x por 3
+x %= 4; // vai pegar o resto da divisão por 4
+x **= 8; // vai calcular a elevação por 8
+
+console.log(x); // valor final é 256
+```

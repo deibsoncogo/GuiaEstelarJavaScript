@@ -52,7 +52,7 @@ console.log(`\n-> Aula 50 - Operadores aritméticos`);
 
 console.log(`Multiplicação: ${3.2 * 5}`);
 console.log(`Divisão: ${12 / 5}`);
-console.log(`Soma: ${34 + 67}`);
+console.log(`Adição: ${34 + 67}`);
 console.log(`Subtração: ${74 - 68}`);
 
 console.log(`Resto da divisão: ${12 % 5}`);
@@ -84,3 +84,17 @@ console.log(`${one} é maior que ${two}: ${one > two}`);
 console.log(`${one} é maior ou igual que ${two}: ${one >= two}`);
 console.log(`${one} é menor que ${two}: ${one < two}`);
 console.log(`${one} é menor ou igual que ${two}: ${one <= two}`);
+
+// Aula 53 - Operadores de atribuição
+console.log(`\n-> Aula 53 - Operadores de atribuição`);
+let x = 1;
+
+x += 2; // vai somar x com 2
+x -= 1; // vai subtrair x por 1
+x *= 9; // vai multiplicar x por 9
+x /= 3; // vai dividir x por 3
+
+x %= 4; // vai pegar o resto da divisão por 4
+x **= 8; // vai calcular a elevação por 8
+
+console.log(x); // valor final é 256
