@@ -46,3 +46,23 @@ const person = {
 delete person.cargo; // exclui um item do objeto
 
 console.log(person);
+
+// Aula 50 - Operadores aritméticos
+console.log(`\n-> Aula 50 - Operadores aritméticos`);
+
+console.log(`Multiplicação: ${3.2 * 5}`);
+console.log(`Divisão: ${12 / 5}`);
+console.log(`Soma: ${34 + 67}`);
+console.log(`Subtração: ${74 - 68}`);
+
+console.log(`Resto da divisão: ${12 % 5}`);
+
+let increment = 8;
+increment++; // realiza uma soma de 1
+console.log(`Incremento: ${increment}`);
+
+let decrement = 8;
+decrement--; // realiza uma subtração de 1
+console.log(`Decremento: ${decrement}`);
+
+console.log(`Exponencial: ${ 3 ** 3}`);

@@ -369,3 +369,15 @@ Ela também é chamada de `left hand side expression`
 
 ## Aula 49 - Typeof delete
 Temos o `delete` que exclui propriedades existente em um objeto
+
+## Aula 50 - Operadores aritméticos
+Na programação iremos muitas vezes realizar cálculos matemático
+
+Temos os 4 operadores que utilizamos muito como o multiplicação, divisão, soma e subtração
+Também temos alguns especiais na programação como podemos ver
+  * Resto da divisão (`%`): É oque sobra de uma divisão
+  * Incremento (`++`): Ele pega uma variável e soma 1
+  * Decremento (`--`): Ele vai subtrair 1 de uma variável
+  * Exponencial (`**`): É uma multiplicação elevada
+
+O incremento e decremento funcionam depois de ser executado, com isso se colocarmos um deste operadores no `console.log()` ele não vai mostrar o resultado da operação pois ela ainda não aconteceu
