@@ -30,3 +30,19 @@ console.log(name48, "\n", name48.surName, "\n", age48, "\n", date48);
 
 // vai imprimir somente as informações
 console.log(`${name48} \n ${name48.surName} \n ${age48} \n ${date48}`);
+
+// Aula 49 - Typeof delete
+console.log(`\n-> Aula 49 - Typeof delete`);
+
+const person = {
+  empresa: "Romagnole Produtos Elétricos",
+  setor: "Administração",
+  cargo: [
+    2,
+    "Assistente",
+  ],
+}
+
+delete person.cargo; // exclui um item do objeto
+
+console.log(person);

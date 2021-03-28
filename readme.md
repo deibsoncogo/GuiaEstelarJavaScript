@@ -366,3 +366,6 @@ A utilização de parenteses como baixo faz o comando ser executado de imediato
 ## Aula 48 - New
 O comando new serve para criar um objeto
 Ela também é chamada de `left hand side expression`
+
+## Aula 49 - Typeof delete
+Temos o `delete` que exclui propriedades existente em um objeto
