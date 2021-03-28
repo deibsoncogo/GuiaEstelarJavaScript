@@ -416,3 +416,11 @@ x **= 8; // vai calcular a elevação por 8
 
 console.log(x); // valor final é 256
 ```
+
+## Aula 54 - Operadores lógicos
+Temos 3 operadores que podem ser utilizado por várias vezes
+  * `&&` ambos tem que ser verdadeiro
+  * `||` algum tem que ser verdadeiro
+  * `!` nenhum pode ser verdadeiro
+
+O sinal de exclamação deve ser adicionado na variável afirmando que os valores verdadeiro não pode ser aceito

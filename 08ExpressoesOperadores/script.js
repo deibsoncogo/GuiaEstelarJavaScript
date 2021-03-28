@@ -98,3 +98,13 @@ x %= 4; // vai pegar o resto da divisão por 4
 x **= 8; // vai calcular a elevação por 8
 
 console.log(x); // valor final é 256
+
+// Aula 54 - Operadores lógicos
+console.log(`\n-> Aula 54 - Operadores lógicos`);
+let pao = true, queijo = false;
+
+console.log(`Temos pão: ${pao}\t\tTemos queijo: ${queijo}\n\n`);
+
+console.log(`Tem pão e queijo para comer: ${pao && queijo}`); // ambos tem que ser verdadeiro
+console.log(`Tem pão ou queijo para comer: ${pao || queijo}`); // algum tem que ser verdadeiro
+console.log(`Não pode ter pão ou queijo para comer: ${!pao && !queijo}`); // nenhum pode ser verdadeiro
