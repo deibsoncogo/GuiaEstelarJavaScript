@@ -66,3 +66,8 @@ decrement--; // realiza uma subtração de 1
 console.log(`Decremento: ${decrement}`);
 
 console.log(`Exponencial: ${ 3 ** 3}`);
+
+// Aula 51 - Grouping operator
+console.log(`\n-> Aula 51 - Grouping operator`);
+console.log((2 + 3) * 5); // mudando a sequencia do calculo
+console.log(2 + 3 * 5); // sem a mudando da sequencia do calculo

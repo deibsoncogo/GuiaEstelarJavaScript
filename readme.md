@@ -381,3 +381,8 @@ Também temos alguns especiais na programação como podemos ver
   * Exponencial (`**`): É uma multiplicação elevada
 
 O incremento e decremento funcionam depois de ser executado, com isso se colocarmos um deste operadores no `console.log()` ele não vai mostrar o resultado da operação pois ela ainda não aconteceu
+
+## Aula 51 - Grouping operator
+Na programação também temos a regra de presidência onde a multiplicação é realizado primeiro em uma conta
+
+Para mudar isso podemos usar o parenteses assim oque estiver dentro será calculado primeiro
