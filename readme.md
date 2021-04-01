@@ -442,3 +442,26 @@ if( ageDriver >= 18 ) {
 
 ## Aula 56 - Operadores para string
 Temos o operador de string (`+`) que serve para concatenar itens, temos que tomar cuidado pois as vezes podemos tentar usar ele para somar algo para mais ele vai concatenar o conteúdo como abaixo
+
+## Aula 57 - Falsy e truthy
+Temos alguns valores que se forem colocados no lugar de uma variável booliana vão receber o valore de falso como
+  * 0
+  * -0
+  * ""
+  * null
+  * undefined
+  * NaN
+```
+NaN ? "Verdadeiro" : "Falso"
+```
+
+Temos também valores que serão considerados como verdadeiro
+  * {}
+  * []
+  * 1
+  * 3.23
+  * "0"
+  * false
+  * -1
+  * Infinity
+  * -Infinity

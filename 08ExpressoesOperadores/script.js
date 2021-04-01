@@ -134,3 +134,14 @@ let alpha = "alpha"; // cria uma string com este valor
 alpha += "bet"; // adiciona este valor na string
 
 console.log(alpha + 345); // informação impressa é alphabet345
+
+// Aula 57 - Falsy e truthy
+console.log(`\n-> Aula 57 - Falsy e truthy`);
+
+// vai retornar como valor falso
+let tipoValorUm = NaN ? "Verdadeiro" : "Falso";
+console.log(tipoValorUm);
+
+// vai retornar como valor verdadeiro
+let tipoValorDois = [] ? "Verdadeiro" : "Falso";
+console.log(tipoValorDois);
