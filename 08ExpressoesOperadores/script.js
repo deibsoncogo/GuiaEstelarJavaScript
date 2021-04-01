@@ -127,3 +127,10 @@ if( ageDriver >= 18 ) {
 } else {
   console.log("Não pode tirar CNH");
 }
+
+// Aula 56 - Operadores para string
+console.log(`\n-> Aula 56 - Operadores para string`);
+let alpha = "alpha"; // cria uma string com este valor
+alpha += "bet"; // adiciona este valor na string
+
+console.log(alpha + 345); // informação impressa é alphabet345

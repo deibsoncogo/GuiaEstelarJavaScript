@@ -439,3 +439,6 @@ if( ageDriver >= 18 ) {
 }
 
 ```
+
+## Aula 56 - Operadores para string
+Temos o operador de string (`+`) que serve para concatenar itens, temos que tomar cuidado pois as vezes podemos tentar usar ele para somar algo para mais ele vai concatenar o conteúdo como abaixo
