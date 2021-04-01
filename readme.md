@@ -424,3 +424,18 @@ Temos 3 operadores que podem ser utilizado por várias vezes
   * `!` nenhum pode ser verdadeiro
 
 O sinal de exclamação deve ser adicionado na variável afirmando que os valores verdadeiro não pode ser aceito
+
+## Aula 55 - Operador condicional ternário
+Ele precisa trabalhar com um valor booleano, podemos criar a propriá verificação nele, existe dos modelos de criar um `if`
+```
+// método rápido e pratico
+const niceBreakFast = leite && fruta ? "Alimentação completa :(" : "Falta um alimento :("
+
+// método complexo e grande
+if( ageDriver >= 18 ) {
+  console.log("Pode tirar CNH");
+} else {
+  console.log("Não pode tirar CNH");
+}
+
+```

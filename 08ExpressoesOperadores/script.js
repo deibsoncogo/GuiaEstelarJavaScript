@@ -108,3 +108,22 @@ console.log(`Temos pão: ${pao}\t\tTemos queijo: ${queijo}\n\n`);
 console.log(`Tem pão e queijo para comer: ${pao && queijo}`); // ambos tem que ser verdadeiro
 console.log(`Tem pão ou queijo para comer: ${pao || queijo}`); // algum tem que ser verdadeiro
 console.log(`Não pode ter pão ou queijo para comer: ${!pao && !queijo}`); // nenhum pode ser verdadeiro
+
+// Aula 55 - Operador condicional ternário
+console.log(`\n-> Aula 55 - Operador condicional ternário`);
+let leite = true;
+let fruta = false;
+
+// método rápido e pratico
+const niceBreakFast = leite && fruta ? "Alimentação completa :(" : "Falta um alimento :("
+
+console.log(niceBreakFast);
+
+let ageDriver = 16
+
+// método complexo e grande
+if( ageDriver >= 18 ) {
+  console.log("Pode tirar CNH");
+} else {
+  console.log("Não pode tirar CNH");
+}
