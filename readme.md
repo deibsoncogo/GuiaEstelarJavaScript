@@ -465,3 +465,16 @@ Temos também valores que serão considerados como verdadeiro
   * -1
   * Infinity
   * -Infinity
+
+## Aula 58 - Precedência dos operadores
+A precedência de operador funciona neste modelo, onde isso seria a sequencia de execução dos operadores na mesma linha
+  * Grouping que sobrescreve a sequencia: ()
+  * Negação e incremento: ! ++ --
+  * Multiplicação e divisão? * /
+  * Adição e subtração: + -
+  * Relacional: < <= > >= C
+  * Igualdade: == != === !==
+  * AND: &&
+  * OR: ||
+  * Condicional: ?:
+  * Assignment: = += -+ *+

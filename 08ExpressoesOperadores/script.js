@@ -145,3 +145,15 @@ console.log(tipoValorUm);
 // vai retornar como valor verdadeiro
 let tipoValorDois = [] ? "Verdadeiro" : "Falso";
 console.log(tipoValorDois);
+
+// Aula 58 - Precedência dos operadores
+console.log(`\n-> Aula 58 - Precedência dos operadores`);
+
+console.log(2 + 5 * 10, (2 + 5) *10); // parenteses é o mais forte
+console.log(3 > 2 && 2 > 1); // o sinal de maior é o primeiro a ser verificado
+console.log(3 > 2 > 1, 3 > 2 == 1); // é verificado um item por vez
+
+console.log(`
+  False é a mesma coisa que 0? ${false == 0}
+  True é a mesma coisa que 1? ${true == 1}`
+); 
