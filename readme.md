@@ -570,3 +570,19 @@ for (let contributor of contributors) {
 ```
 
 Se usarmos ele com outro tipo de dado como uma string ele vai pegar uma letra por vez e trazer para dentro do `for of`
+
+## Aula 65 - For in
+Este é muito parecido com o anterior mais ele é para ser utilizado com dados do tipo objeto, se usarmos uma `string` ele vai contar quantas caracteres existe e usar este número
+```
+let person = {
+  name: "Leonardo",
+  age: 27,
+}
+
+for (let property in person) {
+  console.log(`${property}: ${person[property]}`);
+  
+  // console.log(property); // pega o nome da propriedade
+  // console.log(person[property]); // pega o valor dentro da propriedade
+}
+```

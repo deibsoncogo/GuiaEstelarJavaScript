@@ -34,3 +34,18 @@ let contributors = ["Lucas Oliveira", "Rafael Rodrigues", "Matheus Lima"]
 for (let contributor of contributors) {
   console.log(contributor);
 }
+
+// ## Aula 65 - For in
+console.log(`\n-> ## Aula 65 - For in`);
+
+let person = {
+  name: "Leonardo",
+  age: 27,
+}
+
+for (let property in person) {
+  console.log(`${property}: ${person[property]}`);
+  
+  // console.log(property); // pega o nome da propriedade
+  // console.log(person[property]); // pega o valor dentro da propriedade
+}
