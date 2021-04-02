@@ -10,3 +10,34 @@ if (temperature >= 37.5) {
 } else {
   console.log("Fora do estado febril");
 }
+
+// Aula 61 - Switch
+console.log(`\n-> Aula 61 - Switch`);
+function calculate(number1, operator, number2) {
+  let result;
+
+  switch (operator) {
+    case "+":
+      result = number1 + number2;
+      break;
+    case "-":
+      result = number1 - number2;
+      break;
+    case "*":
+      result = number1 * number2;
+      break;
+    case "/":
+      result = number1 / number2;
+      break;
+    default: break;
+  }
+
+  // se result não tiver valor salvo será um undefined que é false
+  result ? "" : result = "Operador não válido";
+
+  return result;
+}
+
+console.log(calculate(18, "++", 36));
+console.log(calculate(18, "+", 36));
+console.log(calculate(18, "*", 36));

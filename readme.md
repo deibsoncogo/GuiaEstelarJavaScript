@@ -489,3 +489,36 @@ O controle é falar para o sistema quando ums linha de comandos deve ser ignorad
 ## Aula 60 - If e else
 O `if` e `else` são controladores simples muito potente
 Conseguimos criar a quantidade que precisamos
+
+## Aula 61 - Switch
+Ele é utilizado para executar algo conforme o valor recebido, mais para ele funcionar corretamente precisa conter um `break` no final de todos os `case` e por último um `default` para tratar valores inesperado
+
+```
+function calculate(number1, operator, number2) {
+  let result;
+
+  switch (operator) {
+    case "+":
+      result = number1 + number2;
+      break;
+    case "-":
+      result = number1 - number2;
+      break;
+    case "*":
+      result = number1 * number2;
+      break;
+    case "/":
+      result = number1 / number2;
+      break;
+    default: break;
+  }
+
+  result ? "" : result = "Operador não válido";
+
+  return result;
+}
+
+console.log(calculate(18, "++", 36));
+console.log(calculate(18, "+", 36));
+
+```
