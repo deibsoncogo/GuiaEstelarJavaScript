@@ -522,3 +522,8 @@ console.log(calculate(18, "++", 36));
 console.log(calculate(18, "+", 36));
 
 ```
+
+## Aula 62 - Throw e try/catch
+O `try/catch` serve para capitar envio de informação do `throw`
+Está metodologia é muito utilizada para envio de erros
+Se o `throw` não estiver dentro de um try/catch a aplicação vai cair
