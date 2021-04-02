@@ -14,3 +14,13 @@ for (let i = 0; i < 10; i++) {
 
   console.log(manyInformation[i]);
 }
+
+// Aula 64 - While
+console.log(`\n-> Aula 64 - While`);
+
+let dividing = 1;
+
+while (dividing > 0.01) {
+  console.log(dividing);
+  dividing /= 2;
+}

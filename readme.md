@@ -550,3 +550,15 @@ for (let i = 0; i < 10; i++) {
 }
 
 ```
+
+## Aula 64 - While
+É uma estrutura de loop um pouco diferente da anterior onde ele precisa de um valor booleano para funcionar e vai executar até o valor deixar de ser verdadeiro
+```
+let dividing = 1;
+
+while (dividing > 0.01) {
+  console.log(dividing);
+  dividing /= 2;
+}
+
+```
