@@ -527,3 +527,26 @@ console.log(calculate(18, "+", 36));
 O `try/catch` serve para capitar envio de informação do `throw`
 Está metodologia é muito utilizada para envio de erros
 Se o `throw` não estiver dentro de um try/catch a aplicação vai cair
+
+# Modulo 10 - Estruturas de repetição
+
+## Aula 63 - For
+Temos o `for` que cria um loop baseando-se em uma regra
+O `break` pode ser usado para encerra o loop
+E `continue` para pular pra próxima etapa do loop
+```
+manyInformation = ["Deibson", "Lucas", "Rafael", "Tales", "Guilherme", "Matheus"]
+
+for (let i = 0; i < 10; i++) {
+  if(manyInformation[i] === "Lucas") {
+    continue; // faz pular para o próximo loop
+  }
+
+  if(manyInformation[i] === "Guilherme") {
+    break; // encerra o loop
+  }
+
+  console.log(manyInformation[i]);
+}
+
+```
