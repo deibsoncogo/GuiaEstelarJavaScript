@@ -24,3 +24,13 @@ while (dividing > 0.01) {
   console.log(dividing);
   dividing /= 2;
 }
+
+// ## Aula 65 - For of
+console.log(`\n-> ## Aula 65 - For of`);
+
+let manager = "Deibson Cogo";
+let contributors = ["Lucas Oliveira", "Rafael Rodrigues", "Matheus Lima"]
+
+for (let contributor of contributors) {
+  console.log(contributor);
+}

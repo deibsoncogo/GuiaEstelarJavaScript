@@ -562,3 +562,15 @@ while (dividing > 0.01) {
 }
 
 ```
+
+## Aula 65 - For of
+Este tipo de `for` precisa de um `array` pois ele vai pegar elemento por elemento e trazer para dentro do `for` assim disponibilizando a informação salva
+```
+let contributors = ["Lucas Oliveira", "Rafael Rodrigues", "Matheus Lima"]
+
+for (let contributor of contributors) {
+  console.log(contributor);
+}
+```
+
+Se usarmos ele com outro tipo de dado como uma string ele vai pegar uma letra por vez e trazer para dentro do `for of`
