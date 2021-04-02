@@ -485,3 +485,7 @@ A precedência de operador funciona neste modelo, onde isso seria a sequencia de
 Toda aplicação possui um fluxo padrão que é a execução de todos os comandos da primeira a última linha
 
 O controle é falar para o sistema quando ums linha de comandos deve ser ignorada pois ela não atende a uma necessidade
+
+## Aula 60 - If e else
+O `if` e `else` são controladores simples muito potente
+Conseguimos criar a quantidade que precisamos
