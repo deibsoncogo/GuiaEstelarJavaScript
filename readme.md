@@ -478,3 +478,10 @@ A precedência de operador funciona neste modelo, onde isso seria a sequencia de
   * OR: ||
   * Condicional: ?:
   * Assignment: = += -+ *+
+
+# Modulo 09 - Condicionais e controle de fluxo
+
+## Aula 59 - Controle de fluxo da aplicação
+Toda aplicação possui um fluxo padrão que é a execução de todos os comandos da primeira a última linha
+
+O controle é falar para o sistema quando ums linha de comandos deve ser ignorada pois ela não atende a uma necessidade
