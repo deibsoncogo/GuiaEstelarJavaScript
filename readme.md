@@ -586,3 +586,9 @@ for (let property in person) {
   // console.log(person[property]); // pega o valor dentro da propriedade
 }
 ```
+
+# Modulo 11 - Consolidando com exercícios
+
+## Aula 66 - Praticar para aperfeiçoar
+Agora iremos praticar tudo que aprendemos tudo que vimos no curso
+Teremos quatro exercícios para resolver
