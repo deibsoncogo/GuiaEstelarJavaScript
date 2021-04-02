@@ -437,7 +437,6 @@ if( ageDriver >= 18 ) {
 } else {
   console.log("Não pode tirar CNH");
 }
-
 ```
 
 ## Aula 56 - Operadores para string
@@ -520,7 +519,6 @@ function calculate(number1, operator, number2) {
 
 console.log(calculate(18, "++", 36));
 console.log(calculate(18, "+", 36));
-
 ```
 
 ## Aula 62 - Throw e try/catch
@@ -548,7 +546,6 @@ for (let i = 0; i < 10; i++) {
 
   console.log(manyInformation[i]);
 }
-
 ```
 
 ## Aula 64 - While
@@ -560,7 +557,6 @@ while (dividing > 0.01) {
   console.log(dividing);
   dividing /= 2;
 }
-
 ```
 
 ## Aula 65 - For of
