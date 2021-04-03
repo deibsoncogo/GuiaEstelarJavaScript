@@ -607,3 +607,8 @@ Temos dois algorítimos onde o primeiro é o meu e o outro do Mayk
 Neste desafio tem que criar um objeto para conter dois elementos de array onde um vai ter valores de receitas e no outro despesas, depois será necessário criar uma função para somar estes valores, depois subtrair as despesas com as receitas, mostra se essa subtração ficou com valor positivo ou negativo e por final mostrar o valor das duas somatória e da subtração
 
 Tem dois algorítimos onde o primeiro é o meu e o outro do Mayk
+
+## Aula 69 - Celsius to Fahrenheit
+Neste desafio temos que criar uma função que precisa receber uma string com a temperatura e converter para a temperatura oposta usando as formula de conversão entre celsius e fahrenheit
+
+Tem dois algorítimos onde o primeiro é o meu e o outro do Mayk
