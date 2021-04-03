@@ -592,3 +592,13 @@ for (let property in person) {
 ## Aula 66 - Praticar para aperfeiçoar
 Agora iremos praticar tudo que aprendemos tudo que vimos no curso
 Teremos quatro exercícios para resolver
+
+## Aula 67 - Sistema de notas escolares
+O desafio foi a criação de um algorítimo que pega-se uma nota em formato de número e a transformasse em uma nota em letra conforme a tabela
+  * Maior ou igual de 90 e menor ou igual de 100 nota A
+  * Maior ou igual de 80 e menor de 90 nota B
+  * Maior ou igual de 70 e menor de 80 nota C
+  * Maior ou igual de 60 e menor de 70 nota D
+  * Maior ou igual de 0 e menor de 60 nota F
+
+Temos dois algorítimos onde o primeiro é o meu e o outro do Mayk
