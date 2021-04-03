@@ -602,3 +602,8 @@ O desafio foi a criação de um algorítimo que pega-se uma nota em formato de n
   * Maior ou igual de 0 e menor de 60 nota F
 
 Temos dois algorítimos onde o primeiro é o meu e o outro do Mayk
+
+## Aula 68 - Fluxo de caixa familiar
+Neste desafio tem que criar um objeto para conter dois elementos de array onde um vai ter valores de receitas e no outro despesas, depois será necessário criar uma função para somar estes valores, depois subtrair as despesas com as receitas, mostra se essa subtração ficou com valor positivo ou negativo e por final mostrar o valor das duas somatória e da subtração
+
+Tem dois algorítimos onde o primeiro é o meu e o outro do Mayk
