@@ -612,3 +612,12 @@ Tem dois algorítimos onde o primeiro é o meu e o outro do Mayk
 Neste desafio temos que criar uma função que precisa receber uma string com a temperatura e converter para a temperatura oposta usando as formula de conversão entre celsius e fahrenheit
 
 Tem dois algorítimos onde o primeiro é o meu e o outro do Mayk
+
+## Aula 70 - Buscando e encontrando dados em Array
+Neste desafio temos que desenvolver diversas ferramentas utilizando o mesmo banco de dados disponibilizado pelo Maik, no total será 4 itens a criar como:
+  * Criar uma função que conte a quantidade de categoria e livro
+  * Criar uma função que mostre quantos autores existe
+  * Criar uma função para mostrar os livros do Augusto Cury
+  * Criar uma função parecida com a anterior mais com essa poderemos alterar o nome do autor
+
+Tem dois algorítimos onde o primeiro é o meu e o outro do Mayk
