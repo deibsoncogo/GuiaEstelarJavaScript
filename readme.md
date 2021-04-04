@@ -571,7 +571,7 @@ for (let contributor of contributors) {
 
 Se usarmos ele com outro tipo de dado como uma string ele vai pegar uma letra por vez e trazer para dentro do `for of`
 
-## Aula 65 - For in
+## Aula 66 - For in
 Este é muito parecido com o anterior mais ele é para ser utilizado com dados do tipo objeto, se usarmos uma `string` ele vai contar quantas caracteres existe e usar este número
 ```
 let person = {
@@ -589,11 +589,11 @@ for (let property in person) {
 
 # Modulo 11 - Consolidando com exercícios
 
-## Aula 66 - Praticar para aperfeiçoar
+## Aula 67 - Praticar para aperfeiçoar
 Agora iremos praticar tudo que aprendemos tudo que vimos no curso
 Teremos quatro exercícios para resolver
 
-## Aula 67 - Sistema de notas escolares
+## Aula 68 - Sistema de notas escolares
 O desafio foi a criação de um algorítimo que pega-se uma nota em formato de número e a transformasse em uma nota em letra conforme a tabela
   * Maior ou igual de 90 e menor ou igual de 100 nota A
   * Maior ou igual de 80 e menor de 90 nota B
@@ -603,17 +603,17 @@ O desafio foi a criação de um algorítimo que pega-se uma nota em formato de n
 
 Temos dois algorítimos onde o primeiro é o meu e o outro do Mayk
 
-## Aula 68 - Fluxo de caixa familiar
+## Aula 69 - Fluxo de caixa familiar
 Neste desafio tem que criar um objeto para conter dois elementos de array onde um vai ter valores de receitas e no outro despesas, depois será necessário criar uma função para somar estes valores, depois subtrair as despesas com as receitas, mostra se essa subtração ficou com valor positivo ou negativo e por final mostrar o valor das duas somatória e da subtração
 
 Tem dois algorítimos onde o primeiro é o meu e o outro do Mayk
 
-## Aula 69 - Celsius to Fahrenheit
+## Aula 70 - Celsius to Fahrenheit
 Neste desafio temos que criar uma função que precisa receber uma string com a temperatura e converter para a temperatura oposta usando as formula de conversão entre celsius e fahrenheit
 
 Tem dois algorítimos onde o primeiro é o meu e o outro do Mayk
 
-## Aula 70 - Buscando e encontrando dados em Array
+## Aula 71 - Buscando e encontrando dados em Array
 Neste desafio temos que desenvolver diversas ferramentas utilizando o mesmo banco de dados disponibilizado pelo Maik, no total será 4 itens a criar como:
   * Criar uma função que conte a quantidade de categoria e livro
   * Criar uma função que mostre quantos autores existe
